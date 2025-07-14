@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hayloft-chatbot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "94.15%",
+    "uptimeDay": "77.39%",
+    "uptimeWeek": "94.15%",
+    "uptimeMonth": "94.15%",
+    "uptimeYear": "94.15%",
     "time": 934,
     "timeDay": 777,
     "timeWeek": 934,
     "timeMonth": 934,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-14": 326
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hayloft-n8n-prod",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "94.15%",
+    "uptimeDay": "77.39%",
+    "uptimeWeek": "94.15%",
+    "uptimeMonth": "94.15%",
+    "uptimeYear": "94.15%",
     "time": 73,
     "timeDay": 105,
     "timeWeek": 73,
     "timeMonth": 73,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-14": 326
     }
   },
   {
