@@ -1,7 +1,7 @@
 url: $SECRET_SITE_HAYLOFT_N8N_PROD_SERVER
-status: up
-code: 200
-responseTime: 97
-lastUpdated: 2025-07-19T12:19:52.421Z
+status: down
+code: 503
+responseTime: 62
+lastUpdated: 2025-07-19T14:53:25.517Z
 startTime: 2025-07-10T17:02:30.621Z
 generator: Upptime <https://github.com/upptime/upptime>
