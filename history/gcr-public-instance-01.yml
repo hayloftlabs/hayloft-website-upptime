@@ -1,7 +1,7 @@
 url: $SECRET_SITE_GOOGLE_RUN_PUBLIC_1
-status: up
-code: 200
-responseTime: 50
-lastUpdated: 2025-07-21T23:24:10.828Z
+status: down
+code: 404
+responseTime: 81
+lastUpdated: 2025-07-22T01:25:08.198Z
 startTime: 2025-07-18T17:03:28.356Z
 generator: Upptime <https://github.com/upptime/upptime>
