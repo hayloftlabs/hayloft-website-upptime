@@ -11,14 +11,14 @@ sites:
     url: $SECRET_SITE_HAYLOFT_N8N_PROD_SERVER
   - name: Hayloft n8n Dev
     url: $SECRET_SITE_HAYLOFT_N8N_DEV_SERVER
+  - name: LPPRSWW, PLLC
+    url: https://lpprsww.com
   - name: GCR public instance 01
     url: $SECRET_SITE_GOOGLE_RUN_PUBLIC_1
   - name: GCR public instance 02
     url: $SECRET_SITE_GOOGLE_RUN_PUBLIC_2
   - name: GCR public instance 03
     url: $SECRET_SITE_GOOGLE_RUN_PUBLIC_3
-  - name: LPPRSWW, PLLC
-    url: https://lpprsww.com
 
 assignees:
   - lukewp
