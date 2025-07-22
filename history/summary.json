@@ -112,19 +112,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gcr-public-instance-01",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 613,
     "timeDay": 102,
     "timeWeek": 613,
     "timeMonth": 613,
     "timeYear": 613,
-    "dailyMinutesDown": {
-      "2025-07-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GCR public instance 02",
