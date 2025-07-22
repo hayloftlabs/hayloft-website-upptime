@@ -17,8 +17,6 @@ sites:
     url: $SECRET_SITE_GOOGLE_RUN_PUBLIC_1
   - name: GCR public instance 02
     url: $SECRET_SITE_GOOGLE_RUN_PUBLIC_2
-  - name: GCR public instance 03
-    url: $SECRET_SITE_GOOGLE_RUN_PUBLIC_3
 
 assignees:
   - lukewp
