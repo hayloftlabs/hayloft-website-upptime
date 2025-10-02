@@ -4,9 +4,9 @@
     "url": "https://hayloftadvisors.com",
     "icon": "https://icons.duckduckgo.com/ip3/hayloftadvisors.com.ico",
     "slug": "hayloft-advisors-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
@@ -16,6 +16,7 @@
     "timeMonth": 298,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-08-16": 26,
       "2025-07-31": 175,
       "2025-07-30": 119,
@@ -37,11 +38,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hayloft-chatbot",
     "status": "up",
-    "uptime": "88.63%",
+    "uptime": "88.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.54%",
-    "uptimeYear": "88.63%",
+    "uptimeMonth": "87.69%",
+    "uptimeYear": "88.64%",
     "time": 885,
     "timeDay": 779,
     "timeWeek": 976,
@@ -129,11 +130,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hayloft-n8n-dev",
     "status": "up",
-    "uptime": "91.29%",
+    "uptime": "91.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.61%",
-    "uptimeYear": "91.29%",
+    "uptimeMonth": "93.77%",
+    "uptimeYear": "91.30%",
     "time": 494,
     "timeDay": 1665,
     "timeWeek": 639,
@@ -189,9 +190,9 @@
     "url": "$SECRET_SITE_GOOGLE_RUN_PUBLIC_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gcr-public-instance-01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -200,16 +201,18 @@
     "timeWeek": 1088,
     "timeMonth": 826,
     "timeYear": 730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "GCR public instance 02",
     "url": "$SECRET_SITE_GOOGLE_RUN_PUBLIC_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gcr-public-instance-02",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -219,6 +222,7 @@
     "timeMonth": 773,
     "timeYear": 685,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-07-21": 33
     }
   },
@@ -227,9 +231,9 @@
     "url": "$SECRET_SITE_GOOGLE_COMPUTE_N8N_01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hayloft-n8n-gce-01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -238,16 +242,18 @@
     "timeWeek": 191,
     "timeMonth": 213,
     "timeYear": 228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "Hayloft n8n GCE 02",
     "url": "$SECRET_SITE_GOOGLE_COMPUTE_N8N_02",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hayloft-n8n-gce-02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -256,6 +262,8 @@
     "timeWeek": 198,
     "timeMonth": 203,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   }
 ]
