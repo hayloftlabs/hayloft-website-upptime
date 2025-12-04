@@ -1,7 +1,7 @@
 url: $SECRET_SITE_HAYLOFT_N8N_CHATBOT
-status: up
-code: 200
-responseTime: 856
-lastUpdated: 2025-12-03T23:20:43.783Z
+status: down
+code: 503
+responseTime: 365
+lastUpdated: 2025-12-04T04:15:55.527Z
 startTime: 2025-07-10T17:02:26.252Z
 generator: Upptime <https://github.com/upptime/upptime>
